@@ -3,7 +3,7 @@
   "compilerOptions": {
     "lib": ["ES2015"],
     "module": "NodeNext",
-    "outDir": "./dist",
+    "outDir": "./build" // Change the output directory to a different path
   },
   "exclude": ["node_modules"],
   "include": ["."]
